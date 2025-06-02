@@ -61,15 +61,9 @@ weighted avg       0.97      0.97      0.97       114
   ```
 
 - **Confusion Matrix**:
-  ```
   [[70  1]
    [ 2 41]]
-  ```
-
 - **ROC-AUC Score**: `0.997`
-
-![ROC Curve](./db7e023f-f002-48cd-95c2-83fabf1be358.png)
-
 ---
 
 ## 💾 Saving and Loading the Model (with Pickle)
