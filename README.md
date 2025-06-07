@@ -22,12 +22,12 @@ The objective of this repository is to showcase my understanding and implementat
 |---------:|------------------------------|-------------------------------------------------------|
 | Task 01  | **Data Preprocessing**       | Cleaned and prepared data for further ML processes.   |
 | Task 02  | **Exploratory Data Analysis**| Uncovered insights using visual and statistical tools.|
-| Task 03  | **Logistic Regression**      | Built and evaluated a logistic regression classifier. |
-| Task 04  | **Decision Trees**           | Trained, pruned, and visualized decision tree models. |
-| Task 05  | **Random Forests**           | Used ensemble techniques for improved performance.    |
-| Task 06  | **K-Means Clustering**       | Performed unsupervised clustering on dataset.         |
-| Task 07  | **K-Nearest Neighbors (KNN)**| Classification using distance-based KNN algorithm.    |
-| Task 08  | **Model Comparison**         | Compared model performances across various metrics.   |
+| Task 03  | **Linear Regression**        | Built and evaluated a linear regression model. |
+| Task 04  | **Logistic Regression**      | Implemented logistic regression for classification tasks. |
+| Task 05  | **Decision Trees**           | Trained and visualized decision tree models.    |
+| Task 06  | **Random Forests**           | Applied ensemble learning using random forest classifier.         |
+| Task 07  | **K-Means Clustering**       | Performed unsupervised clustering using K-Means.   |
+| Task 08  | **K-Nearest Neighbors (KNN)**| Classification using distance-based KNN algorithm.   |
 
 ---
 
@@ -46,7 +46,7 @@ The objective of this repository is to showcase my understanding and implementat
 
 > _Each task includes visualizations, confusion matrices, cluster plots, and model evaluation charts._
 
-You can find these inside each task folder (e.g., `Task-03/`, `Task-06/`).
+You can find these inside each task folder (e.g., `Task-05/`, `Task-06/`).
 
 ---
 
@@ -63,7 +63,7 @@ Throughout these tasks, I gained hands-on experience in:
 
 ## 🙌 Acknowledgements
 
-Thanks to **Elevates** and the mentoring team for this opportunity and guidance throughout the internship period.
+Thanks to **Elevates Labs** and the mentoring team for this opportunity and guidance throughout the internship period.
 
 ---
 
